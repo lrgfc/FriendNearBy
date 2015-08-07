@@ -15,4 +15,4 @@ interest_ids are the set of all interests that user cares about. This could be h
 
 Output:
 
-For each query operation, output a single line containing the top 10 (or less) user_id’s who are within the ‘miles’ radius of the user and have the highest scalar product of common interest weights. These must be sorted in the order of the weights highest to lowest, tie broken by user_id lowest to highest.
+For each query operation, output a single line containing the top 10 (or less) user_id’s who are within the ‘miles’ radius of the user and have the highest scalar product of common interest weights. These must be sorted in the order of the weights highest to lowest, tie broken by user_id lowest to highest. 
